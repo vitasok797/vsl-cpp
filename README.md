@@ -1,1 +1,1 @@
-# cpp-vsl
+# My C++ support library
